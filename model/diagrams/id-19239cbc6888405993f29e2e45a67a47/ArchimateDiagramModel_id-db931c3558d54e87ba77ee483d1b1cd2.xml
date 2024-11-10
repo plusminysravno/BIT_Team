@@ -775,6 +775,20 @@
                 id="id-dace5e3a1bc7488b9d4fedf63f2c2184"
                 source="id-9a15cb664ca8472f9272010ee8a0cb47"
                 target="id-034dd42085e145a5a3b3f4ba2195261d">
+              <sourceConnections
+                  xsi:type="archimate:DiagramModelArchimateConnection"
+                  id="id-0f20386939574f529001bb96c6ec31f7"
+                  source="id-dace5e3a1bc7488b9d4fedf63f2c2184"
+                  target="id-3fc61efe611f485ebdbc3ee9af966d8f">
+                <bendpoints
+                    startX="-6"
+                    startY="132"
+                    endX="-96"
+                    endY="-4"/>
+                <archimateRelationship
+                    xsi:type="archimate:AssociationRelationship"
+                    href="AssociationRelationship_id-5a7e5e2c9ba24e4b867fdd411f2af6af.xml#id-5a7e5e2c9ba24e4b867fdd411f2af6af"/>
+              </sourceConnections>
               <bendpoints
                   startX="-6"
                   startY="132"
@@ -907,7 +921,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3fc61efe611f485ebdbc3ee9af966d8f">
+      id="id-3fc61efe611f485ebdbc3ee9af966d8f"
+      targetConnections="id-0f20386939574f529001bb96c6ec31f7">
     <bounds
         x="191"
         y="823"
@@ -1146,6 +1161,15 @@
       id="id-8fa828e6bac8447bbcf682537c9ca0be"
       targetConnections="id-e52a9fd9bc934155bd11b5c8d9053733"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-26c8c828e3234fcdb3adaa100e29c665"
+        source="id-8fa828e6bac8447bbcf682537c9ca0be"
+        target="id-0678a8adef8542fcbf9043f2654f1d25">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5bdf8dd61abb4c3a893b1c5995eddb29.xml#id-5bdf8dd61abb4c3a893b1c5995eddb29"/>
+    </sourceConnections>
     <bounds
         x="455"
         y="91"
@@ -1157,7 +1181,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0678a8adef8542fcbf9043f2654f1d25">
+      id="id-0678a8adef8542fcbf9043f2654f1d25"
+      targetConnections="id-26c8c828e3234fcdb3adaa100e29c665">
     <bounds
         x="456"
         y="168"
