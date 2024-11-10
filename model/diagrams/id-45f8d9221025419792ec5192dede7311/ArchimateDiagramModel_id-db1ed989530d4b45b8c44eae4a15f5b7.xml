@@ -11,9 +11,9 @@
         name="iconColor"
         value="#ff40ff"/>
     <bounds
-        x="-756"
-        y="24"
-        width="697"
+        x="-444"
+        y="180"
+        width="157"
         height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -27,8 +27,8 @@
         name="iconColor"
         value="#ff40ff"/>
     <bounds
-        x="-756"
-        y="91"
+        x="-443"
+        y="240"
         width="156"
         height="55"/>
     <archimateElement
@@ -43,8 +43,8 @@
         name="iconColor"
         value="#ff40ff"/>
     <bounds
-        x="-576"
-        y="91"
+        x="-443"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -59,8 +59,8 @@
         name="iconColor"
         value="#ff40ff"/>
     <bounds
-        x="-399"
-        y="91"
+        x="-443"
+        y="384"
         width="156"
         height="55"/>
     <archimateElement
@@ -75,8 +75,8 @@
         name="iconColor"
         value="#ff40ff"/>
     <bounds
-        x="-215"
-        y="91"
+        x="-443"
+        y="452"
         width="156"
         height="55"/>
     <archimateElement
@@ -91,9 +91,9 @@
         name="iconColor"
         value="#ff9200"/>
     <bounds
-        x="-753"
-        y="221"
-        width="493"
+        x="-248"
+        y="185"
+        width="153"
         height="58"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -107,8 +107,8 @@
         name="iconColor"
         value="#ff9200"/>
     <bounds
-        x="-755"
-        y="291"
+        x="-248"
+        y="253"
         width="154"
         height="38"/>
     <archimateElement
@@ -123,10 +123,10 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-750"
-        y="410"
-        width="487"
-        height="65"/>
+        x="-60"
+        y="180"
+        width="149"
+        height="53"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-dab44f30b5a346ce908f0e4233267c0f.xml#id-dab44f30b5a346ce908f0e4233267c0f"/>
@@ -139,8 +139,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-750"
-        y="494"
+        x="-57"
+        y="253"
         width="144"
         height="29"/>
     <archimateElement
@@ -155,8 +155,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-748"
-        y="532"
+        x="-55"
+        y="294"
         width="144"
         height="31"/>
     <archimateElement
@@ -171,8 +171,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-750"
-        y="568"
+        x="-57"
+        y="336"
         width="148"
         height="24"/>
     <archimateElement
@@ -187,8 +187,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-582"
-        y="493"
+        x="-56"
+        y="378"
         width="146"
         height="31"/>
     <archimateElement
@@ -203,8 +203,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-580"
-        y="532"
+        x="-54"
+        y="427"
         width="142"
         height="31"/>
     <archimateElement
@@ -219,8 +219,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="-578"
-        y="568"
+        x="-53"
+        y="479"
         width="144"
         height="24"/>
     <children
@@ -260,10 +260,10 @@
         name="iconColor"
         value="#aa7941"/>
     <bounds
-        x="828"
-        y="554"
-        width="361"
-        height="52"/>
+        x="360"
+        y="180"
+        width="145"
+        height="40"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-6e7620d027044ba69b0e7733474afb84.xml#id-6e7620d027044ba69b0e7733474afb84"/>
@@ -276,8 +276,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="96"
-        y="91"
+        x="360"
+        y="320"
         width="157"
         height="43"/>
     <archimateElement
@@ -292,8 +292,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="96"
-        y="145"
+        x="360"
+        y="374"
         width="157"
         height="43"/>
     <archimateElement
@@ -308,8 +308,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="96"
-        y="205"
+        x="360"
+        y="434"
         width="157"
         height="61"/>
     <archimateElement
@@ -324,8 +324,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="96"
-        y="277"
+        x="360"
+        y="506"
         width="157"
         height="31"/>
     <archimateElement
@@ -340,8 +340,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="96"
-        y="24"
+        x="360"
+        y="253"
         width="516"
         height="55"/>
     <archimateElement
@@ -356,8 +356,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="288"
-        y="84"
+        x="552"
+        y="313"
         width="169"
         height="85"/>
     <archimateElement
@@ -372,8 +372,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="289"
-        y="187"
+        x="553"
+        y="416"
         width="168"
         height="73"/>
     <archimateElement
@@ -388,8 +388,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="288"
-        y="269"
+        x="552"
+        y="498"
         width="169"
         height="97"/>
     <archimateElement
@@ -404,8 +404,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="288"
-        y="374"
+        x="552"
+        y="603"
         width="170"
         height="49"/>
     <archimateElement
@@ -420,10 +420,10 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-750"
-        y="660"
-        width="931"
-        height="61"/>
+        x="108"
+        y="180"
+        width="157"
+        height="53"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-0207a7f74fec4cfcbf4b23b692f5cb45.xml#id-0207a7f74fec4cfcbf4b23b692f5cb45"/>
@@ -436,8 +436,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-750"
-        y="734"
+        x="115"
+        y="242"
         width="144"
         height="52"/>
     <archimateElement
@@ -452,8 +452,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-748"
-        y="798"
+        x="117"
+        y="306"
         width="144"
         height="41"/>
     <archimateElement
@@ -468,8 +468,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-748"
-        y="852"
+        x="117"
+        y="360"
         width="144"
         height="58"/>
     <archimateElement
@@ -484,8 +484,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-748"
-        y="924"
+        x="117"
+        y="432"
         width="144"
         height="44"/>
     <archimateElement
@@ -500,8 +500,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-588"
-        y="734"
+        x="117"
+        y="485"
         width="144"
         height="52"/>
     <archimateElement
@@ -516,8 +516,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-435"
-        y="734"
+        x="120"
+        y="552"
         width="145"
         height="52"/>
     <archimateElement
@@ -532,8 +532,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-276"
-        y="734"
+        x="120"
+        y="611"
         width="145"
         height="52"/>
     <archimateElement
@@ -548,8 +548,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-276"
-        y="798"
+        x="120"
+        y="675"
         width="145"
         height="55"/>
     <archimateElement
@@ -564,10 +564,10 @@
         name="iconColor"
         value="#0432ff"/>
     <bounds
-        x="828"
-        y="696"
-        width="361"
-        height="56"/>
+        x="744"
+        y="178"
+        width="135"
+        height="42"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-928a41be28474734b8418b4aa6079ae8.xml#id-928a41be28474734b8418b4aa6079ae8"/>
@@ -580,8 +580,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="492"
-        y="90"
+        x="756"
+        y="319"
         width="120"
         height="46"/>
     <archimateElement
@@ -596,8 +596,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="492"
-        y="148"
+        x="756"
+        y="377"
         width="120"
         height="67"/>
     <archimateElement
@@ -612,8 +612,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="492"
-        y="221"
+        x="756"
+        y="450"
         width="120"
         height="50"/>
     <archimateElement
@@ -628,9 +628,9 @@
         name="iconColor"
         value="#fefb00"/>
     <bounds
-        x="828"
-        y="288"
-        width="217"
+        x="936"
+        y="178"
+        width="121"
         height="43"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -644,8 +644,8 @@
         name="iconColor"
         value="#fefb00"/>
     <bounds
-        x="828"
-        y="336"
+        x="936"
+        y="226"
         width="120"
         height="62"/>
     <archimateElement
@@ -660,9 +660,9 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="1116"
-        y="289"
-        width="264"
+        x="935"
+        y="327"
+        width="121"
         height="42"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -676,8 +676,8 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="1117"
-        y="348"
+        x="936"
+        y="386"
         width="120"
         height="63"/>
     <archimateElement
@@ -692,9 +692,9 @@
         name="iconColor"
         value="#00f900"/>
     <bounds
-        x="1260"
-        y="346"
-        width="120"
+        x="936"
+        y="470"
+        width="121"
         height="67"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -705,10 +705,10 @@
       id="id-eca07ac318344d35ac1ea83c1741eb7d"
       textAlignment="1">
     <bounds
-        x="828"
-        y="793"
-        width="361"
-        height="52"/>
+        x="1140"
+        y="180"
+        width="217"
+        height="40"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-54dcf91524a240f38d253a6025711529.xml#id-54dcf91524a240f38d253a6025711529"/>
@@ -718,8 +718,8 @@
       id="id-c8ab1f708c88440da733dec0d0bba5ed"
       textAlignment="1">
     <bounds
-        x="1296"
-        y="34"
+        x="1140"
+        y="232"
         width="217"
         height="49"/>
     <archimateElement
@@ -731,8 +731,8 @@
       id="id-b48dee5b1e9c4cf59445f3086185c987"
       textAlignment="1">
     <bounds
-        x="804"
-        y="26"
+        x="1140"
+        y="301"
         width="217"
         height="51"/>
     <archimateElement
@@ -744,8 +744,8 @@
       id="id-f3cd892a3e3a4718bf481fbb89d5b8f4"
       textAlignment="1">
     <bounds
-        x="804"
-        y="90"
+        x="1140"
+        y="365"
         width="217"
         height="33"/>
     <archimateElement
@@ -757,8 +757,8 @@
       id="id-dc374dbcdcdd45e4a1cf06d3e8f5d62d"
       textAlignment="1">
     <bounds
-        x="1524"
-        y="34"
+        x="1140"
+        y="496"
         width="217"
         height="49"/>
     <archimateElement
@@ -773,8 +773,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-276"
-        y="864"
+        x="120"
+        y="741"
         width="145"
         height="49"/>
     <archimateElement
@@ -789,8 +789,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="-108"
-        y="734"
+        x="121"
+        y="806"
         width="144"
         height="52"/>
     <archimateElement
@@ -805,8 +805,8 @@
         name="iconColor"
         value="#ff2600"/>
     <bounds
-        x="48"
-        y="734"
+        x="121"
+        y="876"
         width="144"
         height="52"/>
     <archimateElement
@@ -821,8 +821,8 @@
         name="iconColor"
         value="#932092"/>
     <bounds
-        x="1752"
-        y="35"
+        x="1140"
+        y="554"
         width="217"
         height="47"/>
     <archimateElement
