@@ -724,10 +724,10 @@
           source="id-8dbcb43fc267422b88d6397dd3b296e3"
           target="id-36f1bef3e4ac4a3bb8717b6203462299">
         <bendpoints
-            startX="6"
-            startY="72"
-            endX="82"
-            endY="3"/>
+            startX="54"
+            startY="84"
+            endX="94"
+            endY="16"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-d711ffae680242b8ac77fd038bd20e51.xml#id-d711ffae680242b8ac77fd038bd20e51"/>
