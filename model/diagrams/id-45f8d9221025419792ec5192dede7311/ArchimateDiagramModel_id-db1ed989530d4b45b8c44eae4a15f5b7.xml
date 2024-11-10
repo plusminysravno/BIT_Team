@@ -706,8 +706,8 @@
       textAlignment="1">
     <bounds
         x="828"
-        y="33"
-        width="217"
+        y="793"
+        width="361"
         height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -731,8 +731,8 @@
       id="id-b48dee5b1e9c4cf59445f3086185c987"
       textAlignment="1">
     <bounds
-        x="1068"
-        y="33"
+        x="804"
+        y="26"
         width="217"
         height="51"/>
     <archimateElement
@@ -744,8 +744,8 @@
       id="id-f3cd892a3e3a4718bf481fbb89d5b8f4"
       textAlignment="1">
     <bounds
-        x="1068"
-        y="102"
+        x="804"
+        y="90"
         width="217"
         height="33"/>
     <archimateElement
