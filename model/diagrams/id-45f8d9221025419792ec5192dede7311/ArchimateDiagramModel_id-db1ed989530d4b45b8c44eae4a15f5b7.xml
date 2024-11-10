@@ -7,10 +7,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b0d4f8b46cdc4a1a9792fa5e89c8f21e"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff40ff"/>
     <bounds
         x="-756"
-        y="158"
-        width="156"
+        y="24"
+        width="697"
         height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -20,9 +23,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-50002d15f431406ea753c6baeee86dc0"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff40ff"/>
     <bounds
         x="-756"
-        y="219"
+        y="91"
         width="156"
         height="55"/>
     <archimateElement
@@ -33,11 +39,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28cd735a5fec413694c1dd1cea4e7ee1"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff40ff"/>
     <bounds
-        x="-756"
-        y="348"
+        x="-576"
+        y="91"
         width="156"
-        height="62"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-80a6671cf3ac45c3b5caca2524115ab4.xml#id-80a6671cf3ac45c3b5caca2524115ab4"/>
@@ -46,11 +55,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-88714b85a8a247218d2de3b8b91e9e51"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff40ff"/>
     <bounds
-        x="-756"
-        y="486"
+        x="-399"
+        y="91"
         width="156"
-        height="61"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-9eff4161637940ce9e8e3a4337ebe546.xml#id-9eff4161637940ce9e8e3a4337ebe546"/>
@@ -59,9 +71,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e71ad471a3bb4eff8701092a630ff3ab"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff40ff"/>
     <bounds
-        x="-756"
-        y="636"
+        x="-215"
+        y="91"
         width="156"
         height="55"/>
     <archimateElement
@@ -72,10 +87,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-360d6d57d460440181d0761b2f46009b"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff9200"/>
     <bounds
-        x="-564"
-        y="219"
-        width="156"
+        x="-753"
+        y="221"
+        width="493"
         height="58"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -85,9 +103,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ff3ff8ba217a4aa0a41bd4d0816015c3"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff9200"/>
     <bounds
-        x="-563"
-        y="287"
+        x="-755"
+        y="291"
         width="154"
         height="38"/>
     <archimateElement
@@ -98,11 +119,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0e87a8ad96e946c9a01d0c72bf43c29d"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-384"
-        y="168"
-        width="144"
-        height="37"/>
+        x="-750"
+        y="410"
+        width="487"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-dab44f30b5a346ce908f0e4233267c0f.xml#id-dab44f30b5a346ce908f0e4233267c0f"/>
@@ -111,9 +135,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-00cdaa98ff8442f491aaf74ff693afce"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-384"
-        y="404"
+        x="-750"
+        y="494"
         width="144"
         height="29"/>
     <archimateElement
@@ -124,9 +151,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6617a97fc43f420b97c43bc429243232"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-384"
-        y="444"
+        x="-748"
+        y="532"
         width="144"
         height="31"/>
     <archimateElement
@@ -137,9 +167,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f518ea31a5bc48f595dd2105d8103170"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-386"
-        y="487"
+        x="-750"
+        y="568"
         width="148"
         height="24"/>
     <archimateElement
@@ -150,9 +183,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7f574939f90840cf8cb61cdcd3cff8de"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-384"
-        y="522"
+        x="-582"
+        y="493"
         width="146"
         height="31"/>
     <archimateElement
@@ -163,9 +199,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e43c8541b6a84df3b1fcd3db6fada21b"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-382"
-        y="636"
+        x="-580"
+        y="532"
         width="142"
         height="31"/>
     <archimateElement
@@ -176,11 +215,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-17533f79400d4811b3d9abf973cb9b3d"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
     <bounds
-        x="-382"
-        y="678"
+        x="-578"
+        y="568"
         width="144"
-        height="31"/>
+        height="24"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0322275808c141158fde1a5bcd6b95c8">
@@ -214,9 +256,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-772dd87b8d134392ab6e4d6f2d3601fb"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#aa7941"/>
     <bounds
-        y="99"
-        width="120"
+        x="828"
+        y="554"
+        width="361"
         height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -226,9 +272,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a4ba7eed096f40f2964991268a7f471c"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="-19"
-        y="324"
+        x="96"
+        y="91"
         width="157"
         height="43"/>
     <archimateElement
@@ -239,11 +288,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6002419507814a379d63593ab2fe1707"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="-19"
-        y="429"
+        x="96"
+        y="145"
         width="157"
-        height="37"/>
+        height="43"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2354aba835e742838ff9e9d809b465a9.xml#id-2354aba835e742838ff9e9d809b465a9"/>
@@ -252,11 +304,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89186874e9c64d4cb6f0792f88146175"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="-19"
-        y="524"
+        x="96"
+        y="205"
         width="157"
-        height="64"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-1397cb033651408cb98e52abe214bc4e.xml#id-1397cb033651408cb98e52abe214bc4e"/>
@@ -265,9 +320,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d75d19a577114bc0957fc24385bba324"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="-19"
-        y="852"
+        x="96"
+        y="277"
         width="157"
         height="31"/>
     <archimateElement
@@ -278,10 +336,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0ac236d2ed1c46cfa5cc3ec2f6e828b3"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="209"
-        y="168"
-        width="133"
+        x="96"
+        y="24"
+        width="516"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -291,9 +352,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bce619341589449f8452889dab059139"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="192"
-        y="390"
+        x="288"
+        y="84"
         width="169"
         height="85"/>
     <archimateElement
@@ -304,9 +368,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bbc61dd227484c88b7c50ae9d534a181"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="192"
-        y="552"
+        x="289"
+        y="187"
         width="168"
         height="73"/>
     <archimateElement
@@ -317,9 +384,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cb885570bcba4841b9cd8e56b67710b2"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="192"
-        y="702"
+        x="288"
+        y="269"
         width="169"
         height="97"/>
     <archimateElement
@@ -330,9 +400,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-43e5336c446746b0a850aa9a170934bd"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="191"
-        y="876"
+        x="288"
+        y="374"
         width="170"
         height="49"/>
     <archimateElement
@@ -343,11 +416,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-420e756688a2455a825cbee221fccd69"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="168"
-        width="144"
-        height="42"/>
+        x="-750"
+        y="660"
+        width="931"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-0207a7f74fec4cfcbf4b23b692f5cb45.xml#id-0207a7f74fec4cfcbf4b23b692f5cb45"/>
@@ -356,9 +432,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-03d8eb96522348459e325d153218ea3d"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="339"
+        x="-750"
+        y="734"
         width="144"
         height="52"/>
     <archimateElement
@@ -369,9 +448,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9456e3fa285f43189ecc22c60f4ef098"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="404"
+        x="-748"
+        y="798"
         width="144"
         height="41"/>
     <archimateElement
@@ -382,9 +464,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe7ad465a22747579577c1680b613f78"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="453"
+        x="-748"
+        y="852"
         width="144"
         height="58"/>
     <archimateElement
@@ -395,9 +480,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bc845564a79e43f59b9768099b41fd29"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="524"
+        x="-748"
+        y="924"
         width="144"
         height="44"/>
     <archimateElement
@@ -408,11 +496,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-023e75be921d4bfbb0fd16e13c5b0210"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="639"
+        x="-588"
+        y="734"
         width="144"
-        height="28"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d2644d14322b4120bd3894604e5a724d.xml#id-d2644d14322b4120bd3894604e5a724d"/>
@@ -421,11 +512,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-85eb64aeedad4364b958c2a9c2d29079"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="675"
+        x="-435"
+        y="734"
         width="145"
-        height="46"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-93844451be3641b8a684a29ae3cceba9.xml#id-93844451be3641b8a684a29ae3cceba9"/>
@@ -434,11 +528,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-192d918ee0c2427694899f98c183627d"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="785"
+        x="-276"
+        y="734"
         width="145"
-        height="44"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-bb2e7f85252b4fd09c863e0cbc7b150d.xml#id-bb2e7f85252b4fd09c863e0cbc7b150d"/>
@@ -447,11 +544,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-84af40cf06bc40beb7121fadd701fe83"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="905"
+        x="-276"
+        y="798"
         width="145"
-        height="50"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-fd655cc92a7447068fba594512d9f6f0.xml#id-fd655cc92a7447068fba594512d9f6f0"/>
@@ -460,10 +560,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6c4a8462352c43ae80f0a5584b86a782"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#0432ff"/>
     <bounds
-        x="455"
-        y="91"
-        width="121"
+        x="828"
+        y="696"
+        width="361"
         height="56"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -473,9 +576,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5ecfef9af73a4eaabf0238ef6619864f"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="456"
-        y="387"
+        x="492"
+        y="90"
         width="120"
         height="46"/>
     <archimateElement
@@ -486,9 +592,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49e81d6dc1fa40a5bd849337ce5fff8d"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="457"
-        y="501"
+        x="492"
+        y="148"
         width="120"
         height="67"/>
     <archimateElement
@@ -499,9 +608,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b29012710cd747a78648178da7fda2f9"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="457"
-        y="639"
+        x="492"
+        y="221"
         width="120"
         height="50"/>
     <archimateElement
@@ -512,11 +624,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0202cff581934a8b8f4e5eecabc13e9c"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#fefb00"/>
     <bounds
-        x="660"
-        y="161"
-        width="120"
-        height="44"/>
+        x="828"
+        y="288"
+        width="217"
+        height="43"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a3d289c6d38b4359a9eddbf0b2aac4c3.xml#id-a3d289c6d38b4359a9eddbf0b2aac4c3"/>
@@ -525,9 +640,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29029d66613a449b8b6a3f71066c5faf"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#fefb00"/>
     <bounds
-        x="660"
-        y="287"
+        x="828"
+        y="336"
         width="120"
         height="62"/>
     <archimateElement
@@ -538,11 +656,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bdbb88241cda45a7b662fe830650be14"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="660"
-        y="426"
-        width="120"
-        height="55"/>
+        x="1116"
+        y="289"
+        width="264"
+        height="42"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b7fa93bf871d4d69a6b985dbb480dfb8.xml#id-b7fa93bf871d4d69a6b985dbb480dfb8"/>
@@ -551,9 +672,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d5958dc750754ae089ccc178101a8518"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="660"
-        y="559"
+        x="1117"
+        y="348"
         width="120"
         height="63"/>
     <archimateElement
@@ -564,11 +688,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-668e192b62c04347aae460d1625c307b"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#00f900"/>
     <bounds
-        x="660"
-        y="694"
+        x="1260"
+        y="346"
         width="120"
-        height="51"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-8a03aaf4e2384a36919bda8336b72cdb.xml#id-8a03aaf4e2384a36919bda8336b72cdb"/>
@@ -578,10 +705,10 @@
       id="id-eca07ac318344d35ac1ea83c1741eb7d"
       textAlignment="1">
     <bounds
-        x="816"
-        y="158"
+        x="828"
+        y="33"
         width="217"
-        height="35"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-54dcf91524a240f38d253a6025711529.xml#id-54dcf91524a240f38d253a6025711529"/>
@@ -591,8 +718,8 @@
       id="id-c8ab1f708c88440da733dec0d0bba5ed"
       textAlignment="1">
     <bounds
-        x="816"
-        y="204"
+        x="1296"
+        y="34"
         width="217"
         height="49"/>
     <archimateElement
@@ -604,10 +731,10 @@
       id="id-b48dee5b1e9c4cf59445f3086185c987"
       textAlignment="1">
     <bounds
-        x="816"
-        y="317"
+        x="1068"
+        y="33"
         width="217"
-        height="32"/>
+        height="51"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-3642cab9fea743c48c1a353430982a80.xml#id-3642cab9fea743c48c1a353430982a80"/>
@@ -617,8 +744,8 @@
       id="id-f3cd892a3e3a4718bf481fbb89d5b8f4"
       textAlignment="1">
     <bounds
-        x="816"
-        y="412"
+        x="1068"
+        y="102"
         width="217"
         height="33"/>
     <archimateElement
@@ -630,47 +757,24 @@
       id="id-dc374dbcdcdd45e4a1cf06d3e8f5d62d"
       textAlignment="1">
     <bounds
-        x="816"
-        y="501"
+        x="1524"
+        y="34"
         width="217"
-        height="40"/>
+        height="49"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-f5ad21550351413c862375e2ebcc8dcd.xml#id-f5ad21550351413c862375e2ebcc8dcd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a16cf5e55f344c5ea34864d310410350"
-      textAlignment="1">
-    <bounds
-        x="816"
-        y="606"
-        width="217"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-358bc58a8a764a73a691c205fb005744.xml#id-358bc58a8a764a73a691c205fb005744"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f2879e1951c54e99a598dba0b2c2d43a"
-      textAlignment="1">
-    <bounds
-        x="1236"
-        y="151"
-        width="400"
-        height="140"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-52f70537f6854160bfc972fa60503b26.xml#id-52f70537f6854160bfc972fa60503b26"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-829df0c40d1e49debeafcb6dd5fa9b9c"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="1032"
+        x="-276"
+        y="864"
         width="145"
         height="49"/>
     <archimateElement
@@ -681,11 +785,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b7c3e8f45ad34f129373718bb90258cd"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-215"
-        y="1092"
+        x="-108"
+        y="734"
         width="144"
-        height="61"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b5bae4ac31dc4c36b9bc5e90a0b37a41.xml#id-b5bae4ac31dc4c36b9bc5e90a0b37a41"/>
@@ -694,13 +801,32 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dbd48cc868ce43b7aaa2410bb1a2a938"
       textAlignment="1">
+    <features
+        name="iconColor"
+        value="#ff2600"/>
     <bounds
-        x="-216"
-        y="1212"
+        x="48"
+        y="734"
         width="144"
-        height="37"/>
+        height="52"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-39186a226dc84c2dba391840d4b00c19.xml#id-39186a226dc84c2dba391840d4b00c19"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a16cf5e55f344c5ea34864d310410350"
+      textAlignment="1">
+    <features
+        name="iconColor"
+        value="#932092"/>
+    <bounds
+        x="1752"
+        y="35"
+        width="217"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-358bc58a8a764a73a691c205fb005744.xml#id-358bc58a8a764a73a691c205fb005744"/>
   </children>
 </archimate:ArchimateDiagramModel>
