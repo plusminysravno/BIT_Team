@@ -208,31 +208,6 @@
         y="479"
         width="144"
         height="24"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0322275808c141158fde1a5bcd6b95c8">
-      <bounds
-          x="360"
-          y="12"
-          width="157"
-          height="85"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-508114aed59c478699055d05b77dcd7b.xml#id-508114aed59c478699055d05b77dcd7b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-17edcffd7c92494186bbe75ec7448036"
-        textAlignment="1">
-      <bounds
-          x="84"
-          y="36"
-          width="121"
-          height="104"/>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_id-05099bce2faa489e84f876806446a3a1.xml#id-05099bce2faa489e84f876806446a3a1"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d2ffc10d4b984ba4b07af06aabdf39d2.xml#id-d2ffc10d4b984ba4b07af06aabdf39d2"/>
